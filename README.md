@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Popovkov57 a french developer
-- 💞️ I’m looking to collaborate on green project
 - 💻 My current tech is: Javascript and Java.
 
 
