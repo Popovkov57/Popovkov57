@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Popovkov57 a french developer
-- 💻 My current tech is: Javascript and Java.
 
 
 
